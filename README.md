@@ -1,60 +1,19 @@
-# p5.js Template
+# Book Choice
+I chose The Merlin Trilogy as my book. This is a book about a series of three historical fantasy novels that reimagines the Arthurian legend through the perspective of the legendary wizard Merlin. 
 
-This is a README file that can be used to describe and document your assignment.
+## Book Cover
+1. I'll include Merlin the wizard in book cover. 
+2. Stars (gifs)
+3. a beautifu sky
+4. Maybe Excalibur the sword
+5. It would be interactive, given it's a magic book
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+## Possible Ideas
+I want to explore the visual effects that could be similar to using magic, like mouseClick() and maybe an interactive sword in the stone that can be pulled out.  
 
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
+I think my idea can be related to the reading that talks about interactive design. I will try to create a visual conversation.
 
 
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+## Sketch
 
 
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
