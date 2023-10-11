@@ -15,5 +15,5 @@ I think my idea can be related to the reading that talks about interactive desig
 
 
 ## Sketch
-
+![image description](./1.png)  
 
