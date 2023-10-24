@@ -32,8 +32,20 @@ function setup() {
 function drawCover(){
   let bookHeight = screen.height;
   let bookWidth = bookHeight/9.6 * 6.4;
-  fill(255)
+  fill("pink")
   rect(width/2 - bookWidth/2, 0, bookWidth, bookHeight);
+
+}
+
+function drawOrna(){
+  fill(255, random(255), random(255)); 
+	beginShape();
+	    for(let i=0; i<20; i++){
+					
+				curveVertex(random (0,width), random(0, height));
+			}
+	
+	endShape(CLOSE);
 
 }
 
@@ -61,7 +73,7 @@ function drawTitle(){
 }
 
 function drawStone(){
-  
+
 }
 
 
@@ -74,6 +86,7 @@ function draw() {
   drawCover();
   drawFlower();
   drawTitle();
+  drawOrna();
 
   drawSword();
   moveSword();
