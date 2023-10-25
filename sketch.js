@@ -50,18 +50,18 @@ function drawCover(){
 
 let rOrna = 100; 
 let maxROrna = 400; 
-let growing = true; // A flag to indicate whether the ellipse is growing or shrinking
+let growing = true; 
 
 function drawOrna() {
   if (growing) {
     rOrna += 4; 
     if (rOrna >= maxROrna) {
-      growing = false; // Set the flag to false when the maximum size is reached
+      growing = false; 
     }
   } else {
     rOrna -= 4; 
     if (rOrna <= 100) {
-      growing = true; // Set the flag to true when the ellipse returns to its initial size
+      growing = true; 
     }
   }
   fill(255, random(255), random(255));

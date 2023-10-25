@@ -51,6 +51,8 @@ I wanted to compose a light when the sword comes out (stones turn out to be too 
 
 Finally, I wanted to add some big stars to the cover. I wanted it to be interactive, so I created a star class and refered to stars on Processing (I couldn't do it) to create a four-corner star. In the class, I wrote the update of alpha channel and outside a mouseClicked(). 
 
+![image description](./16.png)  
+
 
 
 
