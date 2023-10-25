@@ -57,20 +57,6 @@ Finally, I wanted to add some big stars to the cover. I wanted it to be interact
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Week 2 update
 This week I tried to make the sword animation. Somehow it has this feature of lifting to the sky. It is pretty cool, but I'll refine it in the future. Also, I used RGB dots to try to create this sky of stars. For now, I have functions of drawing stars and the sword. For the following week, I would:
 
